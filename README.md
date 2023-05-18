@@ -29,8 +29,5 @@ Contributions to this project are welcome. If you have any suggestions, bug repo
 ## License
 [MIT License](LICENSE)
 
-## Contact
-For any inquiries or feedback regarding this project, please contact [your-email@example.com](mailto:your-email@example.com).
-
 ## TL;DR
-Yes, the repository is that petty.
+Yes, I am that petty.
